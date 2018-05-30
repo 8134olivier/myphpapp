@@ -3,6 +3,6 @@
   <title>Test PHP</title>
  </head>
  <body>
- <p>Bonjour le monde, c'est débile</p>
+ <p>Bonjour le monde, hello world</p>
  </body>
 </html>

@@ -5,8 +5,7 @@
     <title>demo</title>
   </head>
   <body>
-    <p style="text-align: center;"><img src="images.jpg" alt="" style="width: 452px; height: 452px;"><img
-
-        src="5.jpg" alt="" style="width: 394px; height: 290px;"></p>
+    <p style="text-align: center;"><img src="5.jpg" alt="" style="width: 394px; height: 290px;"><img
+        src="images.jpg" alt="" style="width: 288px; height: 288px;"></p>
   </body>
 </html>
